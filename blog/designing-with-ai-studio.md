@@ -8,6 +8,7 @@ author: Dezuhan
 excerpt: How generative AI is changing the landscape of creative direction and execution.
 ---
 
+
 # The Future of Design Workflow
 
 Artificial Intelligence is not just a buzzword; it's a fundamental shift in how we approach creative problem-solving.
@@ -27,3 +28,4 @@ Despite the automation, the *human eye* remains curatorial. We choose what feels
 
 ## Conclusion
 Embrace the tools, but master the principles.
+
