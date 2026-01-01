@@ -28,4 +28,5 @@ Despite the automation, the *human eye* remains curatorial. We choose what feels
 
 ## Conclusion
 Embrace the tools, but master the principles.
+testing perubahan dari external
 
