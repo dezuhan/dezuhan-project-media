@@ -3,6 +3,7 @@ title: How to install Koge Kanban - Trello Alternatives
 ---
 
 
+
 # Koge Kanban
 
 A streamlined Kanban board featuring drag-and-drop management, table views, and project organization. This application requires a local MariaDB server for data persistence.
