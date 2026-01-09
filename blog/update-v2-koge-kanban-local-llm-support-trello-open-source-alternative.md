@@ -2,10 +2,6 @@
 title: Update V2 Koge Kanban Local LLM Support  Trello Open Source Alternative
 ---
 
-
-
-<img width="1500" height="900" alt="Koge Kanban Thumbnail" src="https://github.com/user-attachments/assets/5a7e69bc-0358-46d3-bdae-e85461daa030" />
-
 # Koge Kanban
 
 A streamlined Kanban board featuring drag-and-drop management, table views, and project organization. This application requires a local MariaDB server for data persistence and supports optional local AI integration via Ollama.
