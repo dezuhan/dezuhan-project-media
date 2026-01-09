@@ -2,6 +2,8 @@
 title: Update V2 Koge Kanban Local LLM Support  Trello Open Source Alternative
 ---
 
+![](https://cdn.jsdelivr.net/gh/dezuhan/dezuhan-project-media@main/uploads/mk679zg5-Screenshot_2026-01-09_012224.png)
+
 # Koge Kanban
 
 A streamlined Kanban board featuring drag-and-drop management, table views, and project organization. This application requires a local MariaDB server for data persistence and supports optional local AI integration via Ollama.
@@ -126,3 +128,6 @@ Koge-kanban/
 ├── vite.config.js    # Vite configuration
 └── package.json      # Dependencies and scripts
 ```
+
+![LLM Supported](https://cdn.jsdelivr.net/gh/dezuhan/dezuhan-project-media@main/uploads/mk67a5e2-Screenshot_2026-01-09_012247.png)
+![LLM Supported](https://cdn.jsdelivr.net/gh/dezuhan/dezuhan-project-media@main/uploads/mk67b7n3-Screenshot_2026-01-09_013202.png)
