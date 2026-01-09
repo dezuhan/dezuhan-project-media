@@ -2,7 +2,9 @@
 title: Update V2 Koge Kanban Local LLM Support  Trello Open Source Alternative
 ---
 
-![](https://cdn.jsdelivr.net/gh/dezuhan/dezuhan-project-media@main/uploads/mk679zg5-Screenshot_2026-01-09_012224.png)
+
+
+<img width="1500" height="900" alt="Koge Kanban Thumbnail" src="https://github.com/user-attachments/assets/5a7e69bc-0358-46d3-bdae-e85461daa030" />
 
 # Koge Kanban
 
@@ -128,6 +130,3 @@ Koge-kanban/
 ├── vite.config.js    # Vite configuration
 └── package.json      # Dependencies and scripts
 ```
-
-![LLM Supported](https://cdn.jsdelivr.net/gh/dezuhan/dezuhan-project-media@main/uploads/mk67a5e2-Screenshot_2026-01-09_012247.png)
-![LLM Supported](https://cdn.jsdelivr.net/gh/dezuhan/dezuhan-project-media@main/uploads/mk67b7n3-Screenshot_2026-01-09_013202.png)
